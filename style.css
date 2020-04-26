@@ -1,4 +1,30 @@
 h1{
     color: black;
     text-align: center;
+    font-family:fantasy
+}
+p {
+    color: crimson;
+    font-family: monospace;
+}
+div { 
+    background-color: lightblue;
+    width:fit-content;
+    border: 5px solid lightcoral;
+}
+h2{
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+Table { 
+    border: 3px solid coral;
+    background-color:rgb(252, 15, 15);
+    height: 175px; width: 600px;
+    border-collapse: collapse;
+
+}
+th, td {border: 3.5px solid rgb(135, 77, 77);}
+
+td {
+    background-color:rgb(240, 70, 70);
 }
